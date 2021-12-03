@@ -30,8 +30,8 @@ namespace RemovePaintTool.core
             try
             {
                 refIDS = uidoc.Selection.PickObjects(ObjectType.Element,
-                new columnISelFilter(filteredElements),
-                "ADD/REMOVE column elements",
+                new ElementSelFilter(filteredElements),
+                "ADD/REMOVE elements",
                 newrefs);
             }
             catch (Exception)

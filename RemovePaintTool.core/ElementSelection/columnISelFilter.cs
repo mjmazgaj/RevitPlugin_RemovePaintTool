@@ -2,16 +2,16 @@
 using Autodesk.Revit.UI.Selection;
 using System.Collections.Generic;
 
-public class columnISelFilter : ISelectionFilter
+public class ElementSelFilter : ISelectionFilter
 {
     private string _category = null;
     private List<string> _categories = null;
 
-    public columnISelFilter(string category)
+    public ElementSelFilter(string category)
     {
         _category = category;
     }
-    public columnISelFilter(List<string> list)
+    public ElementSelFilter(List<string> list)
     {
         _categories = list;
     }
