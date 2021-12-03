@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application Test</Name>
+    <Assembly>C:\Users\marci\Desktop\C#\2021.11.23 Revit\RemovePaintTool\bin\Debug\RemovePaintTool.dll</Assembly>
+    <FullClassName>RemovePaintTool.App</FullClassName>
+    <ClientId>3F5976A1-65B6-4D98-A0C9-5FE6FD1E89AF</ClientId>
+    <VendorId>Marcin Mazgaj</VendorId>
+    <VendorDescription>Marcin Mazgaj</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemovePaintTool.res", "RemovePaintTool.res\RemovePaintTool.res.csproj", "{909A6726-E2B2-4127-855B-56CFD549B5CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemovePaintTool.ui", "RemovePaintTool.ui\RemovePaintTool.ui.csproj", "{CBB80857-7DB9-4B23-8AD8-DFB4E4A7A281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemovePaintTool.core", "RemovePaintTool.core\RemovePaintTool.core.csproj", "{2519154B-EB5E-4BBE-ABAD-737DAEC6AE91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemovePaintTool", "RemovePaintTool\RemovePaintTool.csproj", "{164C824C-9FE3-4188-BE15-058EC02417DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909A6726-E2B2-4127-855B-56CFD549B5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909A6726-E2B2-4127-855B-56CFD549B5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909A6726-E2B2-4127-855B-56CFD549B5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909A6726-E2B2-4127-855B-56CFD549B5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB80857-7DB9-4B23-8AD8-DFB4E4A7A281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB80857-7DB9-4B23-8AD8-DFB4E4A7A281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB80857-7DB9-4B23-8AD8-DFB4E4A7A281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB80857-7DB9-4B23-8AD8-DFB4E4A7A281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2519154B-EB5E-4BBE-ABAD-737DAEC6AE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2519154B-EB5E-4BBE-ABAD-737DAEC6AE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2519154B-EB5E-4BBE-ABAD-737DAEC6AE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2519154B-EB5E-4BBE-ABAD-737DAEC6AE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164C824C-9FE3-4188-BE15-058EC02417DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164C824C-9FE3-4188-BE15-058EC02417DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164C824C-9FE3-4188-BE15-058EC02417DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164C824C-9FE3-4188-BE15-058EC02417DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA3855F-255C-4748-9D08-CD1CACF9BFD5}
+	EndGlobalSection
+EndGlobal
